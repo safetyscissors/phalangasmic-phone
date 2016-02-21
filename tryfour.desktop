@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=tryfour
+Exec=qmlscene $@ Main.qml
+Icon=tryfour.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

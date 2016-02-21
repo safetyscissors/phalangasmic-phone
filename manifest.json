@@ -1,0 +1,17 @@
+{
+    "name": "tryfour.safetyscissors",
+    "description": "description of tryfour",
+    "architecture": "all",
+    "title": "tryfour",
+    "hooks": {
+        "tryfour": {
+            "apparmor": "tryfour.apparmor",
+            "desktop":  "tryfour.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "andrew <andrew@theninthbit.us>",
+    "framework" : "ubuntu-sdk-14.10-qml"
+}
+
+
